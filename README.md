@@ -37,8 +37,3 @@ In short, while vector search is robust to rewording, it’s not perfect and can
 
 ---
 
-## 📁 Files
-
-- `retrieval_demo.ipynb`: Code demonstrating embeddings, visualization, and FAISS search.
-- `nlp_first_assignment_cleaned_no_comments.ipynb`: Cleaned notebook without metadata and code comments.
-- `README.md`: This document.
